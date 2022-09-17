@@ -1,0 +1,2 @@
+link data: https://divvy-tripdata.s3.amazonaws.com/index.html
+Date of Data: 2022-09-01
